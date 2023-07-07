@@ -134,12 +134,12 @@ const About = () => {
                 </p>
               </div>
               <div className="skill-card" data-aos="flip-right" data-aos-delay="300">
-                <img alt="jQuery" className="skills-img" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" title="jQuery" />
-                <h2 className="skill-name">jQuery</h2>
+                <img alt="jQuery" className="skills-img" src="https://raw.githubusercontent.com/devicons/devicon/1119b9f84c0290e0f0b38982099a2bd027a48bf1/icons/mongodb/mongodb-original.svg" title="MongoDB" />
+                <h2 className="skill-name">MongoDB</h2>
                 <p className="skill-info">
                   <FormattedMessage
                     id='about-skills-6'
-                    defaultMessage='A year using this bookstore in the personal and work environment, it is one of the bookstores that I use and manipulate the most.'
+                    defaultMessage='A year using this database in the personal and work environment, it is one of the bookstores that I use and manipulate the most.'
                   />
                 </p>
               </div>

@@ -143,7 +143,7 @@ const Services = () => {
                   defaultMessage='Perfect for new businesses'
                 />
               </h4>
-              <p className="numero"><span>$</span>150</p>
+              <p className="numero"><span>U$S</span>150</p>
               <ul className="ul-cards-services">
                 <li>
                   <i className="fas fa-check"></i>
@@ -221,7 +221,7 @@ const Services = () => {
                   defaultMessage='Designed for medium businesses'
                 />
               </h4>
-              <p className="numero"><span>$</span>400</p>
+              <p className="numero"><span>U$S</span>400</p>
               <ul className="ul-cards-services">
                 <li>
                   <i className="fas fa-check"></i>
@@ -314,7 +314,7 @@ const Services = () => {
                   defaultMessage='Great for large websites'
                 />
               </h4>
-              <p className="numero"><span>$</span>700</p>
+              <p className="numero"><span>U$S</span>700</p>
               <ul className="ul-cards-services">
                 <li>
                   <i className="fas fa-check"></i>

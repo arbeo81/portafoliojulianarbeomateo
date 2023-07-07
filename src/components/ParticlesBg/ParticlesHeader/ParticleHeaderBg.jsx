@@ -26,7 +26,9 @@ export default function ParticleHeaderBg() {
           position: "50% 50%",
           repeat: "no-repeat",
           size: "cover",
-          color: "#000"
+          image: "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsZe-lX8a6QL4iOlNRUTq0e1rblC-ZsU9vp5338OtOSXFy2XFZhMRjxXplztDlLY0Zy4&usqp=CAU')",
+          transparency: 2,
+          color: "#0000",
         },
         fullScreen: {
           enable: false
@@ -140,7 +142,7 @@ export default function ParticleHeaderBg() {
               star: {
                 sides: 5,
               },
-              image: [
+              /*image: [
                 {
                   src: "https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg",
                   width: 20,
@@ -273,7 +275,7 @@ export default function ParticleHeaderBg() {
                   width: 20,
                   height: 20,
                 },
-              ],
+              ],*/
             },
             type: "image",
           },

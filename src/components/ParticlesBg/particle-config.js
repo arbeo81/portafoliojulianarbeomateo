@@ -1,4 +1,4 @@
-const particlesConfig = {
+/*const particlesConfig = {
   particles: {
     number: {
       value: 6,
@@ -11,7 +11,7 @@ const particlesConfig = {
       value: "#1b1e34"
     },
     shape: {
-      type: "polygon",
+      type: "cicle",
       stroke: {
         width: 0,
         color: "#000"
@@ -109,4 +109,4 @@ const particlesConfig = {
   retina_detect: true
 }
 
-export default particlesConfig
+export default particlesConfig*/

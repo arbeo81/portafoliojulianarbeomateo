@@ -29,16 +29,16 @@ function App() {
         <>
             <RouterScrollTop />
             {
-                loading ?
+                /*loading ?
 
                     <div className='loading-pag'>
                         <div className="loader">
-                            <span>=(Nahuel61920)=></span>
-                            <span>=(Nahuel61920)=></span>
+                            <span>=(Julian Arbeo Mateo dev)=></span>
+                            <span>=(Julian Arbeo Mateo dev)=></span>
                         </div>
                     </div>
 
-                    :
+                    :*/
 
                     <Routes>
                         <Route path="/" element={<Home />}></Route>
