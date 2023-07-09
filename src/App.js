@@ -17,7 +17,7 @@ import RouterScrollTop from "./components/ScrollToTop/RouterScrollTop"
 
 
 function App() {
-    const [loading, setLoading] = useState(false);
+    const [ setLoading] = useState(false);
 
     useEffect(() => {
         setLoading(true)
