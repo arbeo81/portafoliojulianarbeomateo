@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/portafoliojulianarbeomateo/static/css/main.829a5d03.css",
-    "main.js": "/portafoliojulianarbeomateo/static/js/main.181e3345.js",
+    "main.js": "/portafoliojulianarbeomateo/static/js/main.19597070.js",
     "static/js/787.628c2685.chunk.js": "/portafoliojulianarbeomateo/static/js/787.628c2685.chunk.js",
     "static/media/Thumbs.db": "/portafoliojulianarbeomateo/static/media/Thumbs.735170b30af6b4c4247f.db",
     "static/media/proyecto-app-17-com.png": "/portafoliojulianarbeomateo/static/media/proyecto-app-17-com.1cacb50e9e33a1ece5a4.png",
@@ -58,11 +58,11 @@
     "static/media/proyecto-app-2.jpg": "/portafoliojulianarbeomateo/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/portafoliojulianarbeomateo/index.html",
     "main.829a5d03.css.map": "/portafoliojulianarbeomateo/static/css/main.829a5d03.css.map",
-    "main.181e3345.js.map": "/portafoliojulianarbeomateo/static/js/main.181e3345.js.map",
+    "main.19597070.js.map": "/portafoliojulianarbeomateo/static/js/main.19597070.js.map",
     "787.628c2685.chunk.js.map": "/portafoliojulianarbeomateo/static/js/787.628c2685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.829a5d03.css",
-    "static/js/main.181e3345.js"
+    "static/js/main.19597070.js"
   ]
 }
