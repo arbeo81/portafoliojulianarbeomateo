@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/portafoliojulianarbeomateo/static/css/main.829a5d03.css",
-    "main.js": "/portafoliojulianarbeomateo/static/js/main.fb0d156c.js",
+    "main.js": "/portafoliojulianarbeomateo/static/js/main.9c5374ad.js",
     "static/js/787.628c2685.chunk.js": "/portafoliojulianarbeomateo/static/js/787.628c2685.chunk.js",
     "static/media/Thumbs.db": "/portafoliojulianarbeomateo/static/media/Thumbs.735170b30af6b4c4247f.db",
     "static/media/proyecto-app-17-com.png": "/portafoliojulianarbeomateo/static/media/proyecto-app-17-com.1cacb50e9e33a1ece5a4.png",
     "static/media/proyecto-app-17.png": "/portafoliojulianarbeomateo/static/media/proyecto-app-17.1fdc99f421c0d630d405.png",
     "static/media/inicio.png": "/portafoliojulianarbeomateo/static/media/inicio.9e191e0f2820064e6d28.png",
+    "static/media/appComida.jpg": "/portafoliojulianarbeomateo/static/media/appComida.e4c727cde54772281e13.jpg",
     "static/media/proyecto-17-com.png": "/portafoliojulianarbeomateo/static/media/proyecto-17-com.2bc063c32eca5ac09842.png",
     "static/media/proyecto-app-18-com.png": "/portafoliojulianarbeomateo/static/media/proyecto-app-18-com.c68f0badd89d43b76378.png",
     "static/media/portfolio.png": "/portafoliojulianarbeomateo/static/media/portfolio.db37f4e450ab03a28636.png",
@@ -58,11 +59,11 @@
     "static/media/proyecto-app-2.jpg": "/portafoliojulianarbeomateo/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/portafoliojulianarbeomateo/index.html",
     "main.829a5d03.css.map": "/portafoliojulianarbeomateo/static/css/main.829a5d03.css.map",
-    "main.fb0d156c.js.map": "/portafoliojulianarbeomateo/static/js/main.fb0d156c.js.map",
+    "main.9c5374ad.js.map": "/portafoliojulianarbeomateo/static/js/main.9c5374ad.js.map",
     "787.628c2685.chunk.js.map": "/portafoliojulianarbeomateo/static/js/787.628c2685.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.829a5d03.css",
-    "static/js/main.fb0d156c.js"
+    "static/js/main.9c5374ad.js"
   ]
 }
