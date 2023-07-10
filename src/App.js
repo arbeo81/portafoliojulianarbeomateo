@@ -17,7 +17,7 @@ import RouterScrollTop from "./components/ScrollToTop/RouterScrollTop"
 
 
 function App() {
-    const [ setLoading] = useState(false);
+    const [ loading, setLoading] = useState(false);
 
     useEffect(() => {
         setLoading(true)
@@ -29,7 +29,7 @@ function App() {
         <>
             <RouterScrollTop />
             {
-                /*loading ?
+                loading ?
 
                     <div className='loading-pag'>
                         <div className="loader">
@@ -38,7 +38,7 @@ function App() {
                         </div>
                     </div>
 
-                    :*/
+                    :
 
                     <Routes>
                         <Route path="/" element={<Home />}></Route>
