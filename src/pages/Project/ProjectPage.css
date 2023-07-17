@@ -93,13 +93,18 @@
   display: grid;
   grid-template-areas:
     "img-1 	img-1	img-1	img-2   img-2	img-2"
-    "img-3	img-3	img-4	img-4   img-5	img-5"
-    "img-6	img-6	img-7	img-7   img-8	img-8"
-    "img-9	img-9	img-10	img-10  img-11	img-11"
-    "img-12	img-12	img-13	img-13  img-14	img-14"
-    "img-15	img-15	img-16	img-16  img-17	img-17";
+    "img-3	img-3	img-3	img-4   img-4	img-4"
+    "img-5	img-5	img-5	img-6   img-6	img-6"
+    "img-7	img-7	img-7	img-8  img-8	img-8"
+    "img-9	img-9	img-9	img-10  img-10	img-10"
+    "img-11	img-11	img-11	img-12  img-12	img-12"
+    "img-13	img-13	img-13	img-14  img-14	img-14";
+
   gap: 10px;
-  margin-top: 6rem;
+}
+
+.paginas-web{
+  margin-bottom: 10rem;
 }
 
 .proyecto-none {
@@ -107,10 +112,14 @@
 }
 
 .projects__img {
+  padding: 1rem;
   width: 100%;
   height: 100%;
   object-fit: cover;
   cursor: pointer;
+  -webkit-box-shadow: 5px 5px 8px -5px rgba(128,128,128,1);
+  -moz-box-shadow: 5px 5px 8px -5px rgba(128,128,128,1);
+  box-shadow: 5px 5px 8px -5px rgba(128,128,128,1);
 }
 
 .projects__item:nth-of-type(1) {

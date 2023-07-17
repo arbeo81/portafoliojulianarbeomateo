@@ -11,14 +11,14 @@
 .servicios .row .columns{
     box-shadow: var(--box-shadow);
     border: var(--borde);
-    border-bottom: 1rem solid var(--white);
     margin: 0.5rem;
+    margin-bottom: 5rem;
 }
 
 .servicios .row .columns:hover{
-    background: var(--black);
-    color: var(--light-color);
-    border-bottom: 1rem solid var(--black);
+    background: #dadada;
+    cursor: pointer;
+    
 }
 
 .servicios .row i{
@@ -28,11 +28,11 @@
 }
 
 .servicios .row .columns:hover i{
-    color: var(--light-color);
+    color:
 }
 
 .servicios .row .columns:hover h3{
-    color: var(--white);
+    color:
 }
 
 
@@ -116,6 +116,10 @@
 
 
 /********************** Services seccion **********************/
+
+.preguntas {
+    margin-bottom: 10rem;
+}
 
 .preguntas .accordion-container {
     max-width: 70rem;

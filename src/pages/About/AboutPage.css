@@ -3,7 +3,7 @@
 	display: flex;
 	position: relative;
 	padding: 10px 25px;
-	background-color: rgb(194, 194, 194);
+	background-color: #86ca7536;
 	color: var(--black);
 	text-decoration: none;
 	font-size: 1.5rem;
@@ -209,6 +209,7 @@ section .row .columns .skill img:hover {
 
 .sobre-mi-container {
     display: grid;
+    align-items: center;
     grid-template-columns: 30% 68%;
     grid-gap: 2rem;
 }
@@ -226,7 +227,7 @@ section .row .columns .skill img:hover {
     font-size: 1.7rem;
     line-height: 2;
     text-transform: none;
-    padding-bottom: 1rem;
+    align-items: center;
 }
 
 .sobre-mi-info .btn-info {
@@ -260,7 +261,7 @@ section .row .columns .skill img:hover {
     display: grid;
     grid-template-columns: repeat(3, 1fr);
     grid-gap: 5rem;
-    margin-bottom: 5rem;
+    margin-bottom: 10rem;
 }
 
 .skills-img {

@@ -80,51 +80,58 @@
     opacity: 1;
     transform: translate(20px, -20px);
 }
-.icons a:nth-child(1) .layer span,
+.icons a .layer span
+{
+    color: grey;
+    border-color: grey;
+}
+
 .icons a:nth-child(1) .text{
     color: #ff0000;
-    border-color: #ff0000;
 }
-.icons a:nth-child(2) .layer span,
+
 .icons a:nth-child(2) .text{
     color: #4fc35b;
-    border-color: #4fc35b;
 }
-.icons a:nth-child(3) .layer span,
+
 .icons a:nth-child(3) .text{
     color: #E1306C;
-    border-color: #E1306C;
 }
-.icons a:nth-child(4) .layer span,
+
 .icons a:nth-child(4) .text{
     color: #1DA1F2;
-    border-color: #1DA1F2;
 }
-.icons a:nth-child(5) .layer span,
+
 .icons a:nth-child(5) .text{
-    color: #2867B2;
-    border-color: #2867B2;
+    color: #000000;
 }
-.icons a:nth-child(6) .layer span,
-.icons a:nth-child(6) .text{
-    color: #000;
-    border-color: #000;
-}
+
+
 
 .icons a:hover:nth-child(1) .layer span{
     box-shadow: -1px 1px 3px #ff0000;
+    color: #ff0000;
+    border-color: #ff0000;
 }
 .icons a:hover:nth-child(2) .layer span{
     box-shadow: -1px 1px 3px #4fc35b;
+    color: #4fc35b;
+    border-color: #4fc35b;
 }
 .icons a:hover:nth-child(3) .layer span{
     box-shadow: -1px 1px 3px #E1306C;
+    color: #E1306C;
+    border-color: #E1306C;
 }
 .icons a:hover:nth-child(4) .layer span{
     box-shadow: -1px 1px 3px #1DA1F2;
+    color: #1DA1F2;
+    border-color: #1DA1F2;
 }
 .icons a:hover:nth-child(5) .layer span{
     box-shadow: -1px 1px 3px #4267B2;
+    color: #4267B2;
+    border-color: #4267B2;
 }
 .icons a .text{
     position: absolute;

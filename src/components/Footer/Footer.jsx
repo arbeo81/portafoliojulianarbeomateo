@@ -19,7 +19,7 @@ const Footer = () =>{
                             defaultMessage='Page created by Julian Arbeo Mateo'
                         />
                     </p>
-                    <p>&copy; {fecha}. All Rights Reserved.</p>
+                    <p>&copy; All Rights Reserved.</p>
                 </div>
                 <div className="redes-sociales">
                     <a href="https://www.linkedin.com/in/julian-arbeo-mateo-011774249/" target="_blank" rel="noopener noreferrer"><i className="fab fa-linkedin"></i></a>

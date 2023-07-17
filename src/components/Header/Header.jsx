@@ -35,7 +35,7 @@ const Header = () => {
             <div id="menu-btn" className="fas fa-bars" onClick={menuDesplegable}></div>
 
             <NavLink className="logo" to="/">
-                <p>||<span>Julian Arbeo Mateo</span>|| </p>
+                <p>Julian Arbeo Mateo</p>
             </NavLink>
 
             <nav className="navbar">
@@ -49,12 +49,6 @@ const Header = () => {
                     <FormattedMessage
                         id='about'
                         defaultMessage='About me'
-                    />
-                </Link>
-                <Link to="servicios" spy={true} offset={-150} href="#servicios">
-                    <FormattedMessage
-                        id='services'
-                        defaultMessage='Services'
                     />
                 </Link>
                 <Link to="proyectos" spy={true} offset={-150} href="#proyectos">

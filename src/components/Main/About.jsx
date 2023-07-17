@@ -53,7 +53,7 @@ const About = () => (
                             <span>
                                 Hobbies:{" "}
                             </span>
-                                Read, Football,  and Programming
+                                Read, football,  and programming
                         </p>
                     </li>
                     <li>

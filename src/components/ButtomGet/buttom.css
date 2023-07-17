@@ -4,7 +4,7 @@
     padding: 0.35em;
     padding-left: 2.4rem;
     font-size: 1.6em;
-    border-radius: 0.9em;
+    border-radius: 0.5em;
     border: none;
     letter-spacing: 0.05em;
     display: flex;
@@ -32,7 +32,7 @@
     justify-content: center;
     height: 2.2em;
     width: 2.2em;
-    border-radius: 0.7em;
+    border-radius: 0.3em;
     box-shadow: 0.1em 0.1em 0.6em 0.2em var(--green);
     right: 0.3em;
     transition: all 0.3s;

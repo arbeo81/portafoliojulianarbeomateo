@@ -23,12 +23,8 @@ export default function ParticleHeaderBg() {
           className="particles-2-css"
       options={{
         background: {
-          position: "50% 50%",
-          repeat: "no-repeat",
-          size: "cover",
-          image: "url('https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMsZe-lX8a6QL4iOlNRUTq0e1rblC-ZsU9vp5338OtOSXFy2XFZhMRjxXplztDlLY0Zy4&usqp=CAU')",
-          transparency: 2,
-          color: "#0000",
+          
+          color: "",
         },
         fullScreen: {
           enable: false

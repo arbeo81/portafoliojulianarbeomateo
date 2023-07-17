@@ -1,7 +1,7 @@
 /********************** Inicio **********************/
 
 .contenido {
-    background: #a1a1a1;
+    background-image: url("../../../src/img/home-5.png");
     width: 100vw;
     height: 100vh;
     background-position: center center;
@@ -11,25 +11,27 @@
 .inicio{
     display: flex;
     justify-content: center;
+    margin-left: 50rem;
+    margin-top: ;
     
 }
 
 .inicio .titulo{
     margin: 20rem auto 0 auto;
-    text-align: center;
+    text-align:center;
     z-index: 200!important;
 }
 
 .inicio .titulo p {
     font-size: 3.5rem;
-    color: var(--white);
+    color: var(--black);
     position: relative;
     font-weight: 600;
 }
 
 .inicio .titulo h1{
     font-size: 4.5rem;
-    color: var(--white);
+    color: var(--black);
 }
 
 .wrapper {

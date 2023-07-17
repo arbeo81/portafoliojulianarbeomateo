@@ -172,10 +172,10 @@ function ProjectApp() {
             >
                 <div className="content-modal">
                     <div className="pw-content">
-                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./proyecto-app-18-com.png`)} alt="" /></div>
+                        <div className="eins-modal-preview"><img src={proyectsImgApp(`./appComida.jpg`)} alt="" /></div>
                         <div className="eins-modal-text">
                             <p>
-                                CoinPlus
+                                AppComida
                             </p>
                             <p>
                                 <FormattedMessage
@@ -190,7 +190,7 @@ function ProjectApp() {
                                 />
                             </p>
                             <div className="eins-modal-text-2">
-                                <span>Link:</span> <a href="https://coin-plus.vercel.app/" target="">https://coin-plus.vercel.app/</a>
+                                <span>Link:</span> <a href="https://webcomidajarbeo.netlify.app/" target="">https://webcomidajarbeo.netlify.app/</a>
                             </div>
                             <div className="eins-modal-text-3">
                                 <span>

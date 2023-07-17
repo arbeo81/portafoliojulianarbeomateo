@@ -20,7 +20,7 @@ const Service = () => (
                 <h3>
                     <FormattedMessage
                         id='design'
-                        defaultMessage='ADesign UX/UIboult me'
+                        defaultMessage='Design UX/UI'
                     />
                 </h3>
                 <p>
@@ -56,7 +56,7 @@ const Service = () => (
                 <p>
                     <FormattedMessage
                         id='marketing-info'
-                        defaultMessage='Complete maintenance of web pages to detect and solve errors, update content whether text, photos, web design elements, add new functions, etc.'
+                        defaultMessage='Prepare a strategy and objectives for the promotion of the brand provided by the client, using the internet or other platforms to promote products and services of the brand in question.'
                     />
                 </p>
             </div>
@@ -107,7 +107,7 @@ const Service = () => (
             </div>
         </div>
         <div className='portafolio-btn'>
-            <Link to="/service">
+            <Link to="/service/">
                 <ButtomGet/>
             </Link>
         </div>

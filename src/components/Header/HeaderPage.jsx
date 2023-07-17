@@ -33,7 +33,7 @@ const HeaderPage = () => {
             <div id="menu-btn" className="fas fa-bars" onClick={menuDesplegable}></div>
 
             <NavLink className="logo" to="/" >
-                <p>||<span>JULIAN ARBEO MATEO</span>||</p>
+                <p><span>JULIAN ARBEO MATEO</span></p>
             </NavLink>
 
             <nav className="navbar">
@@ -47,12 +47,6 @@ const HeaderPage = () => {
                     <FormattedMessage
                         id='about'
                         defaultMessage='About me'
-                    />
-                </NavLink>
-                <NavLink to="/service" offset={-150} duration={500}>
-                    <FormattedMessage
-                        id='services'
-                        defaultMessage='Services'
                     />
                 </NavLink>
                 <NavLink to="/project" offset={-150} duration={500}>

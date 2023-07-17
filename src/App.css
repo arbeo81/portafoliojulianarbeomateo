@@ -1,7 +1,7 @@
 @import url('https://fonts.googleapis.com/css2?family=Nunito:wght@200;300;400;600;700&display=swap');
 
 :root{
-    --green:#00e5fe;
+    --green:#86ca75c7;
     --secundario: #15b8ca;
     --terciario: #00fefe;
     --black:#121f41;
@@ -112,15 +112,12 @@ animation: nahuel61920 3s ease-in-out infinite;
     height: 4rem;
     color: #fff;
     border-radius: 5px;
-    border: 2px solid rgba(0,0,0,.0);
+    border: 3px solid rgba(0,0,0,.0);
     padding:.8rem 2rem .2rem 2rem;
     cursor: pointer;
     transition: all 0.3s ease;
     position: relative;
     display: inline-block;
-    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
-    7px 7px 20px 0px rgba(0,0,0,.1),
-    4px 4px 5px 0px rgba(0,0,0,.1);
     outline: none;
 }
 
@@ -129,8 +126,8 @@ body.dark .custom-btn {
 }
 
 .btn {
-    background: var(--green);
-    color: var(--secundario);
+    background: var(--green) ;
+    color: var(--black);
     z-index: 1;
     font-size: 1.7rem;
     font-weight: 700;
@@ -143,12 +140,9 @@ body.dark .custom-btn {
     top: 0;
     right: 0;
     z-index: -1;
-    background-color: var(--terciario);
+    background-color: var(--white);
     border-radius: 5px;
-    box-shadow:inset 2px 2px 2px 0px rgba(255,255,255,.5),
-    7px 7px 20px 0px rgba(0,0,0,.1),
-    4px 4px 5px 0px rgba(0,0,0,.1);
-    transition: all 0.6s ease;
+  
 }
 
 body.dark .btn::after {
