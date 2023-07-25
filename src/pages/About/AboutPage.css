@@ -293,6 +293,10 @@ section .row .columns .skill img:hover {
         margin: 0 0.5rem;
     }
 
+    .heading{
+        margin-top: 20rem;
+    }
+
     .icons-skils {
         margin: 1.5rem 2rem;
     }

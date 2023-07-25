@@ -293,6 +293,12 @@
 
 /********************** Media Q **********************/
 
+@media (max-width: 990px){
+  .projects__grid{
+    margin-bottom: 15rem;
+  }
+}
+
 @media (max-width: 760px) {
   .eins-modal-preview {
     max-width: 200px;

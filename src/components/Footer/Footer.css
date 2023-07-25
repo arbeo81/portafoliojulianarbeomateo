@@ -38,9 +38,20 @@
     color: var(--green);
 }
 
+@media (max-width: 990px) {
+    .footer{
+        padding: 0.5rem 15%;
+        padding-top: 2rem;
+        margin-bottom: -5rem;
+    }
+
+}
+
+
 @media (max-width: 570px) {
     .footer{
-        padding: .4rem 5% ;
+        padding: 0.5rem 10% ;
+        margin-bottom: -3rem;
     }
 
     .site-footer .copyright p{

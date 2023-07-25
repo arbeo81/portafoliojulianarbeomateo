@@ -107,7 +107,6 @@
 }
 
 
-
 .icons a:hover:nth-child(1) .layer span{
     box-shadow: -1px 1px 3px #ff0000;
     color: #ff0000;
@@ -151,6 +150,9 @@
 /********************** Media Q **********************/
 
 @media (max-width: 990px) {
+    .contactos{
+        margin-bottom: 10rem;
+    }
     .icons a .layer span.fab{
         padding-top: 0;
     }
@@ -165,6 +167,11 @@
 
 @media (max-width: 450px) {
     .icons a{
-        margin: 5rem 2rem;
+        font-size: 3px;
+        margin-left: 0.7rem;
+        margin-right: 0.7rem;
+    }
+    .text{
+        display: none;
     }
 }

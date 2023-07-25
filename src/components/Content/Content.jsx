@@ -33,12 +33,7 @@ const Content = () => (
                     />
                 </p>
 
-                <div className="redes-sociales">
-                    <a href="https://www.linkedin.com/in/julian-arbeo-mateo-011774249/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200"><i className="fab fa-linkedin"></i></a>
-                    <a href="https://github.com/arbeo81" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1400"><i className="fab fa-github"></i></a>
-                    <a href="https://www.instagram.com/julian.arbeo/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1600"><i className="fab fa-instagram"></i></a>
-                    <a href="https://api.whatsapp.com/send?phone=5491134374567" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1800"><i className="fab fa-whatsapp"></i></a>
-                </div>
+               
                 <div className="wrapper">
                     <a className="button" href="https://www.linkedin.com/in/julian-arbeo-mateo-011774249/" target="_blank" rel="noopener noreferrer" data-aos="fade-up" data-aos-delay="1200">
                         <div className="icon">

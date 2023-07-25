@@ -10,16 +10,19 @@
 
 .inicio{
     display: flex;
-    justify-content: center;
-    margin-left: 50rem;
-    margin-top: ;
+    justify-content: start;
+    
     
 }
 
 .inicio .titulo{
+    
     margin: 20rem auto 0 auto;
     text-align:center;
     z-index: 200!important;
+    background-color: #ffffffc4;
+    padding: 2rem;
+    border-radius: .5rem;
 }
 
 .inicio .titulo p {
@@ -32,6 +35,7 @@
 .inicio .titulo h1{
     font-size: 4.5rem;
     color: var(--black);
+   
 }
 
 .wrapper {
@@ -162,6 +166,31 @@
 /********************** Media Q **********************/
 
 @media (max-width: 990px) {
+
+    .inicio{
+        background-color: #4747474b;
+        padding: 7rem;
+        background-image:url("https://www.aauniv.com/s/blog/wp-content/uploads/2022/03/lenguajes-de-programacion-1024x572.jpeg");
+    }
+    .contenido {
+        width: 100vw;
+        height: 40vh;
+        background-image: none;
+    }
+
+    .titulo {
+        
+        margin-top: 8rem !important;
+    }
+
+    .inicio .titulo p {
+        font-size: 4rem;
+    }
+    
+    .inicio .titulo h1{
+        font-size: 4rem;
+    }
+
     .wrapper .button .icon{
         display: inline-block;
         padding: 0 1.8rem 0 2.1rem;
@@ -181,20 +210,22 @@
 
 @media (max-width: 760px) {
 
-    .contenido {
-        min-height: 600px;
-    }
-
-    .inicio .titulo p {
-        font-size: 3.5rem;
-    }
     
-    .inicio .titulo h1{
-        font-size: 4rem;
-    }
 }
 
 @media (max-width: 570px) {
+    .inicio{
+        width: 100vw;
+        height: 50vh;
+        background-image: none;
+        background-image: url("https://tiposdeide.files.wordpress.com/2018/10/diseno-fondo-programacion_1223-79.jpg");
+    }
+
+    .titulo{
+        margin-top: 10rem !important;
+        
+    }
+    
     .wrapper{
         display: none;
     }
@@ -206,21 +237,36 @@
 
 @media (max-width: 450px) {
     .contenido {
-        min-height: 500px;
+
+
+    }
+
+    .inicio{
+        width: 100vw;
+        height: 50vh;
+        background-image: none;
+        background-image: url("https://assets.bedu.org/images/top-lenguajes-programacion-2021.jpg");
+           
+    }
+
+    .titulo{
+        margin-bottom: 10rem !important;
+        background-color: #e7e6e6cc !important;
     }
 
     .inicio .titulo p {
         font-size: 3rem;
+        font-weight: 500;
+        color: #000000 !important;
+       
     }
     
     .inicio .titulo h1{
-        font-size: 3.5rem;
+        font-size: 3rem;
+        font-weight: 500;
+        color: #000000 !important;
     }
     .scroll-down {
         display: none;
-    }
-
-    .icons a{
-        margin: 5rem 2rem;
     }
 }
