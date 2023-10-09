@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/portafoliojulianarbeomateo/static/css/main.bd992535.css",
-    "main.js": "/portafoliojulianarbeomateo/static/js/main.d9eee30d.js",
+    "main.css": "/portafoliojulianarbeomateo/static/css/main.eeb0174e.css",
+    "main.js": "/portafoliojulianarbeomateo/static/js/main.bae651bc.js",
     "static/js/787.628c2685.chunk.js": "/portafoliojulianarbeomateo/static/js/787.628c2685.chunk.js",
     "static/media/home-4.png": "/portafoliojulianarbeomateo/static/media/home-4.074100156017748d57a0.png",
     "static/media/Thumbs.db": "/portafoliojulianarbeomateo/static/media/Thumbs.735170b30af6b4c4247f.db",
@@ -29,11 +29,11 @@
     "static/media/paisajes-naturales-26.jpeg": "/portafoliojulianarbeomateo/static/media/paisajes-naturales-26.980f86889d975d04f04b.jpeg",
     "static/media/proyecto-5-com.png": "/portafoliojulianarbeomateo/static/media/proyecto-5-com.6ba644471266de376326.png",
     "static/media/proyecto-22.com.png": "/portafoliojulianarbeomateo/static/media/proyecto-22.com.6043187f3c9a1c21f1d3.png",
-    "static/media/cv.pdf": "/portafoliojulianarbeomateo/static/media/cv.e6930792a72649d7bf99.pdf",
     "static/media/proyecto-27.com.png": "/portafoliojulianarbeomateo/static/media/proyecto-27.com.6a040bcf834685541eac.png",
     "static/media/proyecto-11-com.png": "/portafoliojulianarbeomateo/static/media/proyecto-11-com.f62a13d09a93136aaab3.png",
     "static/media/proyecto-23.com.png": "/portafoliojulianarbeomateo/static/media/proyecto-23.com.628fe24636d010a6306e.png",
     "static/media/proyecto-29.jpg": "/portafoliojulianarbeomateo/static/media/proyecto-29.f040300ab9f87c5cd6c7.jpg",
+    "static/media/cv_julian_arbeo_mateo.pdf": "/portafoliojulianarbeomateo/static/media/cv_julian_arbeo_mateo.03fce599b57f09823e95.pdf",
     "static/media/proyecto-6-com.png": "/portafoliojulianarbeomateo/static/media/proyecto-6-com.793e6636e20b75e30b41.png",
     "static/media/home.jpg": "/portafoliojulianarbeomateo/static/media/home.c5ad54312b56f9f562a8.jpg",
     "static/media/proyecto-21.com.png": "/portafoliojulianarbeomateo/static/media/proyecto-21.com.fe9227d2f227def8fbff.png",
@@ -83,12 +83,12 @@
     "static/media/proyecto-app-12.jpg": "/portafoliojulianarbeomateo/static/media/proyecto-app-12.0d8495ab02ed11fe1640.jpg",
     "static/media/proyecto-app-2.jpg": "/portafoliojulianarbeomateo/static/media/proyecto-app-2.5d8ddf1cc2638b419fd5.jpg",
     "index.html": "/portafoliojulianarbeomateo/index.html",
-    "main.bd992535.css.map": "/portafoliojulianarbeomateo/static/css/main.bd992535.css.map",
-    "main.d9eee30d.js.map": "/portafoliojulianarbeomateo/static/js/main.d9eee30d.js.map",
+    "main.eeb0174e.css.map": "/portafoliojulianarbeomateo/static/css/main.eeb0174e.css.map",
+    "main.bae651bc.js.map": "/portafoliojulianarbeomateo/static/js/main.bae651bc.js.map",
     "787.628c2685.chunk.js.map": "/portafoliojulianarbeomateo/static/js/787.628c2685.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.bd992535.css",
-    "static/js/main.d9eee30d.js"
+    "static/css/main.eeb0174e.css",
+    "static/js/main.bae651bc.js"
   ]
 }
